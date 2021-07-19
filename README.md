@@ -7,7 +7,7 @@ July 2021
 
 ## Purpose/Process
 
-The purpose of this project is demonstrate a number of machine learning concepts testing various models on an example dataset of NASA Kepler space telescope data.
+The purpose of this project is demonstrate a number of machine learning concepts via testing various models on an example dataset of NASA Kepler space telescope data.
 
 ## Model Performance
 
