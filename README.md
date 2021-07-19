@@ -37,4 +37,4 @@ For the purposes of this project all three of the tested models performed relati
 
 Source data .csv is located in the /source_data folder.
 
-The Logistic Regression and Random Forest models are saved in the same folder as .sav files, and the Deep Learning model is saved in the main repository as an .h5 file.
+The Logistic Regression and Random Forest models are saved in the main repository as .sav files, and the Deep Learning model is saved in the same location as an .h5 file.
